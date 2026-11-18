@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Colors -->
+    <color name="primary">#1E88E5</color>
+    <color name="primary_dark">#1565C0</color>
+    <color name="primary_light">#E3F2FD</color>
+    <color name="accent">#00B0FF</color>
+
+    <!-- Status Colors -->
+    <color name="present_green">#2E7D32</color>
+    <color name="present_green_light">#E8F5E9</color>
+    <color name="absent_red">#C62828</color>
+    <color name="absent_red_light">#FFEBEE</color>
+    <color name="warning_orange">#EF6C00</color>
+    <color name="warning_orange_light">#FFF3E0</color>
+
+    <!-- Neutral Colors Light -->
+    <color name="bg_light">#F8FAFC</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="text_primary_light">#1E293B</color>
+    <color name="text_secondary_light">#64748B</color>
+
+    <!-- Base -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="divider">#E2E8F0</color>
+    <color name="card_stroke">#E2E8F0</color>
+
+    <!-- Role Colors -->
+    <color name="role_admin">#7C4DFF</color>
+    <color name="role_admin_bg">#F3E8FF</color>
+    <color name="role_teacher">#0288D1</color>
+    <color name="role_teacher_bg">#E0F7FA</color>
+    <color name="role_student">#43A047</color>
+    <color name="role_student_bg">#E8F5E9</color>
+</resources>

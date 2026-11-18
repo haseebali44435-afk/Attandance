@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_admin_dashboard"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:title="Dashboard" />
+    <item
+        android:id="@+id/nav_manage_users"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="Users" />
+    <item
+        android:id="@+id/nav_manage_departments"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="Depts" />
+    <item
+        android:id="@+id/nav_manage_subjects"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="Subjects" />
+    <item
+        android:id="@+id/nav_admin_reports"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="Reports" />
+</menu>

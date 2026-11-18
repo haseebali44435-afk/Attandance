@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "569382163968",
+    "project_id": "college-attendance-syste-7fce0",
+    "storage_bucket": "college-attendance-syste-7fce0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569382163968:android:78f92cdca08a038c6c6ae5",
+        "android_client_info": {
+          "package_name": "com.example.attandance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC68-v6GYgkm3AnfUbDuu9yVMCng_qiMm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
